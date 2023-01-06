@@ -3,4 +3,4 @@
 Tracking of the bomb modules in Keep Talking and Nobody Explodes (ktane) to create a dataset for training a neural network in modules identification
 
 
-<img src="assets/demo_final.gif" align="center" alt="demo" width="450" alt="loading demo video..."/>
+<img src="assets/demo.gif" align="center" alt="demo" width="450" alt="loading demo video..."/>
