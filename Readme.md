@@ -6,4 +6,4 @@ Tracking of the bomb modules in Keep Talking and Nobody Explodes (ktane) to crea
 
 Please wait for the video to load
 
-![demo_video](./assets/demo/demo.mp4)
+![demo_video](./assets/demo/demo.gif)
